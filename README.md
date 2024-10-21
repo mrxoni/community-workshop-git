@@ -1,4 +1,4 @@
-# Community Workshop: Git and Github for Newbies
+# Community Workshop: Git(hub) for Newbies
 
 *with Zoé Wolter*
 
